@@ -10,7 +10,7 @@
 .navbar a {
     position: relative;
     font-size: 18px;
-    color: #000000;
+    color: #ffffff;
     font-weight: 500;
     text-decoration: none;
     margin-left: 40px;
@@ -35,15 +35,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
    
     
 }
 
 body {
     min-height: 200vh;
-    background: url(rwrumaozj707g6roh0gj.jpg) no-repeat;
+    background: url(yup315f7utc194wsiwsg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -94,3 +93,14 @@ a {
    50% { background-position: 0% 0%; }
    100% { background-position: 100% 0%; }
  }
+ .dm-serif-text-regular {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dm-serif-text-regular-italic {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
